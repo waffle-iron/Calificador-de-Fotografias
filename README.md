@@ -1,5 +1,5 @@
-
-![](./UH.jpg)
+<p align="center">
+<![](./UH.jpg)>
 
 #Proyecto de Programacion III
 # Calificador de Fotografias
@@ -19,7 +19,7 @@ Jefferson Medina
 LuisCarlos Martinez
 
 Mariam Molina
-
+</p>
 
 <p align="center">
   <b>Some Links:</b><br>
