@@ -1,7 +1,11 @@
 ![](./UH.jpg)
 
-# Calificador-de-Fotografias
+#Proyecto de Programacion III
+# Calificador de Fotografias
 
+#Profesor
+
+Oscar Vindas
 
 #Integrantes 
 
