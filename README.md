@@ -1,9 +1,9 @@
 <p align="center">
-    <b>![](./UH.jpg)</b><br>
+    ![](./UH.jpg)<br>
     <b>Proyecto de Programacion III</b><br>
     <b><big>Calificador de Fotografias</big></b><br>
     <b>Profesor</b><br>
-    Oscar Vindas
+    Oscar Vindas<br>
     <b>Integrantes </b><br>
     Jairo Brenes<br>
     Matias Hroncich <br>
