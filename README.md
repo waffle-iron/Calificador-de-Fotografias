@@ -1,4 +1,4 @@
-![](http://www.asegrum.org/imagenes/UH.jpg)
+![](./UH.jpg)
 
 # Calificador-de-Fotografias
 
