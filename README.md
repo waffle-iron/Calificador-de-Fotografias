@@ -19,7 +19,10 @@ LuisCarlos Martinez
 
 Mariam Molina
 
-![](./loading.gif.jpg)
+<p align="center">
+   <br><br>
+  <img src="http://sports.ndtv.com/images/loading.gif">
+</p>
 
 
 
