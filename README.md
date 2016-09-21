@@ -1,4 +1,4 @@
-http://www.asegrum.org/imagenes/UH.jpg
+[http://www.asegrum.org/imagenes/UH.jpg]
 
 # Calificador-de-Fotografias
 
