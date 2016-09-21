@@ -1,5 +1,5 @@
+ ![](./UH.jpg)
 <p align="center">
-    ![](./UH.jpg)
     <b>Proyecto de Programacion III</b><br>
     <b><big>Calificador de Fotografias</big></b><br>
     <b>Profesor</b><br>
