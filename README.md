@@ -1,4 +1,4 @@
-<p align="center">
+
 ![](./UH.jpg)
 
 #Proyecto de Programacion III
@@ -19,7 +19,7 @@ Jefferson Medina
 LuisCarlos Martinez
 
 Mariam Molina
-</p>
+
 
 <p align="center">
   <b>Some Links:</b><br>
