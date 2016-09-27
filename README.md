@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mariammayito/Calificador-de-Fotografias.png?label=ready&title=Ready)](https://waffle.io/mariammayito/Calificador-de-Fotografias)
 ![](./UH.jpg)
 <p align="center">
     <br>
