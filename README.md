@@ -10,6 +10,7 @@
     Matias Hroncich <br>
     Jefferson Medina <br>
     LuisCarlos Martinez<br>
+    Juan David <br>
     Mariam Molina<br>
     <br><br>
       <img src="http://sports.ndtv.com/images/loading.gif">
